@@ -12,6 +12,10 @@ export const siteConfig = {
       label: "Suspense",
       href: "/suspense",
     },
+    {
+      label: "Parallel Route",
+      href: "/parallel",
+    },
   ],
   navMenuItems: [
     {
@@ -19,8 +23,12 @@ export const siteConfig = {
       href: "/",
     },
     {
-      label: "With Suspense",
-      href: "/with-suspense",
+      label: "Suspense",
+      href: "/suspense",
+    },
+    {
+      label: "Parallel Route",
+      href: "/parallel",
     },
   ],
 };

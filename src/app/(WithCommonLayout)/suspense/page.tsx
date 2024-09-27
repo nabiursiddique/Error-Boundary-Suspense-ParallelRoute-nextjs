@@ -21,4 +21,6 @@ const SuspensePage = () => {
   );
 };
 
+// In a page if we want to handle two or more component separately then we use suspense
+
 export default SuspensePage;
